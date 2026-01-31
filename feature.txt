@@ -1,1 +1,2 @@
 this is feature file
+this is 2nd feature
